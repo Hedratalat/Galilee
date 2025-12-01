@@ -14,7 +14,7 @@ const SignUp = lazy(() => import("./pages/SignUp"));
 // const Test = lazy(() => import("./pages/test"));
 const VerifyEmail = lazy(() => import("./pages/VerifyEmail"));
 const Login = lazy(() => import("./pages/Login"));
-const Overview = lazy(() => import("./pages/overview"));
+const Overview = lazy(() => import("./pages/Overview"));
 const DashBoardLayout = lazy(() => import("./DashboardLayout/DashboardLayout"));
 const AddProducts = lazy(() => import("./pages/AddProducts"));
 const Products = lazy(() => import("./pages/Products"));
