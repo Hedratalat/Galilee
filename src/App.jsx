@@ -30,7 +30,7 @@ function App() {
             <Route path="/products" element={<Products />} />{" "}
             <Route path="/contact" element={<Contact />} />{" "}
             <Route path="/signup" element={<SignUp />} />{" "}
-            <Route path="/test" element={<Test />} />{" "}
+            {/* <Route path="/test" element={<Test />} />{" "} */}
             <Route path="/verify-email" element={<VerifyEmail />} />{" "}
             <Route path="/login" element={<Login />} />{" "}
             <Route
