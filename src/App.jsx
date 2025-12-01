@@ -11,7 +11,7 @@ const Home = lazy(() => import("./pages/Home"));
 const Contact = lazy(() => import("./pages/Contact"));
 const About = lazy(() => import("./pages/About"));
 const SignUp = lazy(() => import("./pages/SignUp"));
-const Test = lazy(() => import("./pages/test"));
+// const Test = lazy(() => import("./pages/test"));
 const VerifyEmail = lazy(() => import("./pages/VerifyEmail"));
 const Login = lazy(() => import("./pages/Login"));
 const Overview = lazy(() => import("./pages/overview"));
